@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.task.iusupart.testtask.view","l":"MainView"},{"p":"ru.task.iusupart.testtask","l":"TestTaskApplication"},{"p":"ru.task.iusupart.testtask.model","l":"Value"},{"p":"ru.task.iusupart.testtask.repository","l":"ValueRepository"}];updateSearchResults();
